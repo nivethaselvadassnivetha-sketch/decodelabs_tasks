@@ -41,5 +41,4 @@ Internship
 These projects were completed as part of the Decodelabs Python Internship Program to gain practical experience in software development and programming concepts.
 
 Author
-
 Nivetha S
